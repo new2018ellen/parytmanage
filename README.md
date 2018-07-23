@@ -38,7 +38,7 @@
 因为数据保密问题，没有显示数据，没能很好得显示效果
 
 1.党课登录页面图
-![alt text]()
+![登录页](https://github.com/new2018ellen/project-img/blob/master/partymanage/login.jpg)
 
 2、管理员首页效果图
 
