@@ -41,8 +41,8 @@
 ![登录页](https://github.com/new2018ellen/project-img/blob/master/partymanage/login.jpg)
 
 2、管理员首页效果图
-
+![管理员首页](https://github.com/new2018ellen/project-img/blob/master/partymanage/index.png)
 
 3、党员首页效果图
-
+![党员首页](https://github.com/new2018ellen/project-img/blob/master/partymanage/manage.png)
 
